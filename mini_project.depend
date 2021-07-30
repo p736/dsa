@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1618486391 source:c:\users\lenovo\documents\programs\mini_project\main.c
+	<stdio.h>
+	"function.h"
+
+1618391801 c:\users\lenovo\documents\programs\mini_project\function.h
+	<stdbool.h>
+
+1618999394 source:c:\users\lenovo\documents\programs\mini_project\function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	"function.h"
+
